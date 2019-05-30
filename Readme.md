@@ -1,6 +1,9 @@
 # Official PyTorch implementation for the ICML 2019 Workshop paper: "Implicit Generative Modeling of Random Noise during training improves Adversarial Robustness" https://arxiv.org/abs/1807.02188
 
-The 'checkpoint_submission' folder contains already trained model files. 
+The 'checkpoint_submission' folder contains the saved files:
+1) Adv_space_NoL_epsilon_8.h5 has the saved PC projections for the adversarial/clean input visualization in PC subspace for NoL trained model.
+2) Adv_space_SGD_epsilon_8.h5 has the saved PC projections for the adversarial/clean input visualization in PC subspace for SGD trained model.
+3) PC_dim_NoL.h5 (or PC_dim_SGD.h5) has the PC projections for the adversarial/clean input to plot cosine distance for NoL (or SGD) model.
 
 Ipython notebooks for SGD training scenario and NoL training scenario is present. 
 Notebooks have detailed comments that will help the users follow each step. 
