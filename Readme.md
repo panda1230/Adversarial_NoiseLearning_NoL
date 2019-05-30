@@ -1,6 +1,7 @@
-# Official PyTorch implementation for the ICML 2019 Workshop paper: "Implicit Generative Modeling of Random Noise during training improves Adversarial Robustness" https://arxiv.org/abs/1807.02188
+# Official PyTorch implementation for the ICML 2019 Workshop paper: 
+## "Implicit Generative Modeling of Random Noise during training improves Adversarial Robustness" https://arxiv.org/abs/1807.02188
 
-### ICML 2019 Workshop on Uncertainty & Robustness in Deep Learning (https://sites.google.com/view/udlworkshop2019/home)
+#### ICML 2019 Workshop on Uncertainty & Robustness in Deep Learning (https://sites.google.com/view/udlworkshop2019/home)
 
 This software allows users to reproduce the results from the paper
 including 
