@@ -22,9 +22,8 @@ The 'checkpoint_submission' folder also contains trained model files:
 - Ipython notebooks for SGD training scenario <Cifar10_ResNet18_SGD_submission.ipynb> and NoL training scenario <Cifar10_ResNet18_NoL_submission.ipynb> is present. 
 - <Adversarial_Dimensionality_NoLvsSGD_submission.ipynb> plots the adversarial dimensionality calculated using GAAS and compares the dimension of NoL vs. SGD.
 - <PC_CosineDistance_NoLvsSGD_submission.ipynb> plots the cosine distance measured for PC projection of Conv1 layer of a model in response to clan and adversarial inputs and compares the distance for NoL vs. SGD.
-Notebooks have detailed comments that will help the users follow each step. 
 
-For any other queries, please contact me @the corresponding author email id mentioned in the paper(https://arxiv.org/abs/1807.02188).
+Notebooks have detailed comments that will help the users follow each step. For any other queries, please contact me @the corresponding author email id mentioned in the paper(https://arxiv.org/abs/1807.02188).
 
  | Dependencies  |
 | ------------- |
