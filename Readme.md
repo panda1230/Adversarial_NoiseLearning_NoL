@@ -8,7 +8,7 @@ including
 1) Principal Component Analysis- Variance and Cosine Distance Results comparing adversarial vs. clean input response of a model, 
 2) Adversarial Accuracy- Projected Gradient Descent (or PGD) attack, FGSM attack results,
 3) Loss Surface visualization for blackbox and whitebox attack for SGD vs. NoL
-4) Adversarial Subspace dimensionality measured with the GAAS method[https://arxiv.org/pdf/1704.03453.pdf]. 
+4) Adversarial Subspace dimensionality measured with the GAAS method [https://arxiv.org/pdf/1704.03453.pdf]. 
 
 The ipython notebooks provide a good comparison between SGD vs. NoL training scenario for ResNet18 model trained on CIFAR10 dataset.
 
