@@ -36,7 +36,7 @@ For any other queries, please contact me @the corresponding author email id ment
 | scikit-learn|
 |scipy        |
 
-### Please consider citing the paper if you find this work useful for your research.
+### Please consider citing our paper if you find this work useful for your research.
 
 
 ```
