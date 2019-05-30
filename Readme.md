@@ -2,7 +2,7 @@
 ## "Implicit Generative Modeling of Random Noise during training improves Adversarial Robustness" https://arxiv.org/abs/1807.02188
 
 #### ICML 2019 Workshop on Uncertainty & Robustness in Deep Learning (https://sites.google.com/view/udlworkshop2019/home)
-##### Acronym definition:NoL- Noise-based prior learning (our proposal), SGD- Stochastic Gradient Descent
+#### Acronym definition:NoL- Noise-based prior learning (our proposal), SGD- Stochastic Gradient Descent
 This software allows users to reproduce the results from the paper
 including 
 1) Principal Component Analysis- Variance and Cosine Distance Results comparing adversarial vs. clean input response of a model, 
