@@ -7,6 +7,9 @@ The 'checkpoint_submission' folder contains the saved files:
 
 Ipython notebooks for SGD training scenario and NoL training scenario is present. 
 Notebooks have detailed comments that will help the users follow each step. 
+
+
+
 For any other queries, please contact me @the corresponding author email id mentioned in the paper(https://arxiv.org/abs/1807.02188).
 
 This software allows users to reproduce the results from the paper
