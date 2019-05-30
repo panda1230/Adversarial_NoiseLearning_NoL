@@ -1,5 +1,10 @@
 # Official PyTorch implementation for the ICML 2019 Workshop paper: "Implicit Generative Modeling of Random Noise during training improves Adversarial Robustness" https://arxiv.org/abs/1807.02188
 
+This software allows users to reproduce the results from the paper
+including Principal Component Analysis- Variance and Cosine Distance Results and Adversarial Accuracy- Projected Gradient Descent (or PGD) attack, FGSM attack results. 
+
+The ipython notebooks provide a good comparison between SGD vs. NoL training scenario for ResNet18 model trained on CIFAR10 dataset.
+
 The 'checkpoint_submission' folder contains the saved files:
 1) Adv_space_NoL_epsilon_8.h5 has the saved PC projections for the adversarial/clean input visualization in PC subspace for NoL trained model.
 2) Adv_space_SGD_epsilon_8.h5 has the saved PC projections for the adversarial/clean input visualization in PC subspace for SGD trained model.
@@ -16,11 +21,6 @@ Notebooks have detailed comments that will help the users follow each step.
 
 
 For any other queries, please contact me @the corresponding author email id mentioned in the paper(https://arxiv.org/abs/1807.02188).
-
-This software allows users to reproduce the results from the paper
-including Principal Component Analysis- Variance and Cosine Distance Results and Adversarial Accuracy- Projected Gradient Descent (or PGD) attack, FGSM attack results. 
-
-The ipython notebooks provide a good comparison between SGD vs. NoL training scenario for ResNet18 model trained on CIFAR10 dataset.
 
  | Dependencies  |
 | ------------- |
